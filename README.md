@@ -3,9 +3,10 @@
 	private $host 	= "localhost";
 	private $user 	= "root";
 	private $pass 	= "";
-	private $db 	= "accountingsystem";
+	private $db 	= "attendanaceStytem";
+	
 -------------------------Admin Panel Information--------------------------
 
-Project Link: http://localhost/AccountingSystem/index.php
-Email: jiya
+Project Link: http://localhost/StudentAttendanceSystem/index.php
+Email: admin
 Password: 123456
